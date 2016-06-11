@@ -11,8 +11,25 @@
     "regex",
     "regexp"
   ],
-  "author": "Denis Bondarenko <bond.den@gmail.com>",
-  "license": "MIT",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bondden/esf-rgx-bdr.git"
+	},
+	"author": {
+		"name": "Denis Bondarenko",
+		"email": "bond.den@gmail.com",
+		"url": "https://github.com/bondden"
+	},
+	"engines": {
+		"node": ">=5.10.0"
+	},
+	"files": [
+		"index.js",
+		"license.md",
+		"readme.md",
+		"tst/"
+	],
   "devDependencies": {
     "chai": "^3.5.0",
     "fs-extra": "^0.30.0",
