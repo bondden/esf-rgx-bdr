@@ -22,7 +22,7 @@
 		"url": "https://github.com/bondden"
 	},
 	"engines": {
-		"node": ">=5.10.0"
+		"node": ">=6.2.0"
 	},
 	"files": [
 		"index.js",
