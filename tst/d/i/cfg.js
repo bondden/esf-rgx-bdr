@@ -45,15 +45,15 @@ module.exports={
       rpl:''
     },
     {
-      val: 'style="[\t\s]*"',
+      val: 'style="[\\t\\s]*"',
       rpl:''
     },
     {
-      val: '<defs>(.*)<\/defs>',
+      val: '<defs>(.*)<\\/defs>',
       rpl:'<style type="text/css">rect,polygon,path,line,ellipse {fill:none;stroke:DimGrey;stroke-width:1.0;}text {lengthAdjust:spacingAndGlyphs;font-family:"sans-serif";font-size:13;}.h1{font-size:18;font-weight:bold;}.h2{font-size:14;}</style>'
     },
     {
-      val: 'filter="url\(#f1\)"',
+      val: 'filter="url\\(#f1\\)"',
       rpl:''
     },
     {

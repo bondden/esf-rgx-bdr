@@ -1,6 +1,6 @@
 {
   "name": "esf-rgx-bdr",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "ESF RegExp Builder",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
+    "fs-extra": "^0.30.0",
     "mocha": "^2.5.3"
   }
 }
