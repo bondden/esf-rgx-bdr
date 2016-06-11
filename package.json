@@ -1,6 +1,6 @@
 {
   "name": "esf-rgx-bdr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESF RegExp Builder",
   "main": "index.js",
   "scripts": {
